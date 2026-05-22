@@ -1,0 +1,8 @@
+AI safety focuses on ensuring autonomous systems behave reliably, transparently, and securely under real-world conditions.
+
+Key concerns include:
+- hallucinations,
+- unsafe autonomous actions,
+- misinformation generation,
+- lack of explainability,
+- and alignment failures in advanced AI systems.
